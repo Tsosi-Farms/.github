@@ -1,4 +1,4 @@
-![tsosi_logo](https://github.com/Tsosi-Farms/.github/assets/148379776/611cf082-7261-47ff-b519-5fb4ac959954)
+[![tsosi_logo](https://github.com/Tsosi-Farms/.github/assets/148379776/611cf082-7261-47ff-b519-5fb4ac959954)](https://tsosifarms.com)
 
 # Tsosi Farms Limited
 
